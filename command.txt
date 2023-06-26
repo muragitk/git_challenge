@@ -4,4 +4,5 @@ git add hello_world.txt
 git commit -m "hello_world.txtを追加"
 git add hello_world.txt
 git commit -m "日本語訳を追記"
+git remote add origin https://github.com/muragitk/git-basic-kadai.git
 git push -u origin main
